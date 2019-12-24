@@ -1,0 +1,19 @@
+/* body {
+    background-color: #990000;
+} */
+#name {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:xx-large;
+    /* color: white; */
+}
+#menu {
+    font-size: larger;
+    
+}
+
+
+#tb {
+    background-color: white;
+    border-color: #FFFF33;
+
+}
